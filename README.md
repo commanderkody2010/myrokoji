@@ -1,6 +1,6 @@
 <html>
 📱 Who am i: 
-Hi, I'm Jordan, I am a Web developer and C language enthusiast. I am a minecraft player and a BOTW fanatic 
+Hi, I'm CommanderKody2010, I am a Web developer and C language enthusiast. I am a minecraft player and a BOTW fanatic 
 
 ❓ How to reach me:
 dsc: myrokoji
